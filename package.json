@@ -1,0 +1,21 @@
+{
+  "name": "gen-site",
+  "version": "1.0.0",
+  "description": "Infrastructure generator for simple websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "site",
+    "generator"
+  ],
+  "bin": {
+    "gen-site": "./index.js"
+  },
+  "author": "Kristiyan Krastev",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
