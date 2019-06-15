@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-const filesGenerator = require('./lib/files/files');
+const Configuration = require('./lib/configuration/configuration');
 const yargs = require('yargs');
 // will take site name as a first argument
 
 
-filesGenerator.init(yargs);
+Configuration.init(yargs);
