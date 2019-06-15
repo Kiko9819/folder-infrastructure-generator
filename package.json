@@ -1,5 +1,5 @@
 {
-  "name": "gen-site",
+  "name": "scaffolder",
   "version": "1.0.0",
   "description": "Infrastructure generator for simple websites",
   "main": "index.js",
@@ -8,10 +8,11 @@
   },
   "keywords": [
     "site",
-    "generator"
+    "generator",
+    "scaffolder"
   ],
   "bin": {
-    "gen-site": "./index.js"
+    "scaffolder": "./index.js"
   },
   "author": "Kristiyan Krastev",
   "license": "ISC",

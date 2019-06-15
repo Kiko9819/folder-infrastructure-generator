@@ -1,0 +1,12 @@
+{
+  "css": {
+    "styles": "css"
+  },
+  "js": {
+    "main": "js"
+  },
+  "assets": {
+    "images": {}
+  },
+  "index": "html"
+}
