@@ -17,6 +17,7 @@
   "author": "Kristiyan Krastev",
   "license": "ISC",
   "dependencies": {
+    "open": "^6.3.0",
     "yargs": "^13.2.4"
   }
 }
