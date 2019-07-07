@@ -6,7 +6,7 @@
     "main": "js"
   },
   "assets": {
-    "images": {}
+    "images": { }
   },
   "index": "html"
 }
